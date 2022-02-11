@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532741351749",
+    "project_id": "bitcards-8f083",
+    "storage_bucket": "bitcards-8f083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532741351749:android:15efbe76597317464cf62c",
+        "android_client_info": {
+          "package_name": "com.bitcardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532741351749-v9pulnscq3ua7nq4pvnna2f1pdvrae6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bWApIPDwn1mCCip7u8CIaC-I7sg2hcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532741351749-v9pulnscq3ua7nq4pvnna2f1pdvrae6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
